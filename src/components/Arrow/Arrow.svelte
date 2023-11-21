@@ -15,6 +15,7 @@
 <button
   class="sc-carousel-button sc-carousel-arrow__circle"
   class:sc-carousel-arrow__circle_disabled={disabled}
+  type="button"
   on:click
 >
   <i
